@@ -9,7 +9,7 @@ A simple task manager web application built with Flask. Users can manage tasks, 
 
 ## Installation
 1. Clone the repo:
-   ```
+   ```bash
    git clone https://github.com/Ruubesh/task-manager.git
    cd task-manager
    
