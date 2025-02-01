@@ -14,9 +14,9 @@ A simple task manager web application built with Flask. Users can manage tasks, 
    cd task-manager
    
 2. Install dependencies:
-   ```
+   ```bash
    pip install -r requirements.txt
 
 3. Run the application:
-   ```
+   ```bash
    python app/main.py
